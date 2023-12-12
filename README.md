@@ -1,2 +1,4 @@
 # ChatGPT-Political-Bias-Mitigation-ConstitutionalAI
-Repo containing code for applying ConstitutionalAI for political bias mitigation in ChatGPT
+## Contains code for applying ConstitutionalAI principles to mitigate political bias in ChatGPT
+
+Link to paper: (soon)
