@@ -1,4 +1,6 @@
-# ChatGPT-Political-Bias-Mitigation-ConstitutionalAI
-## Contains code for applying ConstitutionalAI principles to mitigate political bias in ChatGPT
+# Unveiling Bias in ChatGPT-3.5: An Analysis of Constitutional AI Principles for Politically Biased Responses
 
 Link to paper: (soon)
+
+## Abstract
+OpenAI's set of GPT models has already been applied to a variety of applications across many industries. In a previous study, we quantified how OpenAI's GPT-3.0 model responses exhibit bias across various political subjects. Our results revealed a statistically significant left-leaning political bias in GPT-3.0’s responses for 9 out of the 11 analyzed political topics. In this research, we employed Anthropic's Constitutional AI principles to mitigate GPT-3.5’s political bias. We conducted a series of tests by applying custom constitutional principles in an attempt to mitigate political bias. Our observations indicated a significant reduction in bias for the “Abortion” and “Racism + Police” topics when using a custom principle with a carefully crafted prompt template. For the other topics, surprisingly, our study did not uncover significant bias reduction in GPT-3.5’s responses. This implies that while constitutional principles can be effective in mitigating biases in certain areas, their application across a broader range of topics requires further refinement and research to achieve consistent results.
