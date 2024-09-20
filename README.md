@@ -1,5 +1,7 @@
 # Unveiling Bias in ChatGPT-3.5: An Analysis of Constitutional AI Principles for Politically Biased Responses
 
+[Presented at SCCUR 2023](https://docs.google.com/presentation/d/1771WYmTgAs08t0Qk8W05Ohit7c1VDJ4DOv2_W0kwiGU/edit?usp=sharing).
+
 Link to paper: (soon)
 
 ## Abstract
